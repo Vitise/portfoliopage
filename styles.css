@@ -123,4 +123,49 @@ justify-content: center;
     width: 600px;
 }
 
+.skills-g{
+    margin: 0;
+    padding: 91px 0 91px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.skills-s{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.skills-s-box{
+    display: flex;
+    flex-direction: column;
+    gap:70px;
+}
+
+.skills-s-picture{
+    width: 89px;
+}
+
+.skills-s-picture-boxes-positions{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap:80px;
+}
+
+.skills-s-picture-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills-s-picture-boxes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap:10px;
+}
+
 

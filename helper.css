@@ -71,3 +71,15 @@ line-height: 41px;
 letter-spacing: 0%;
 text-align: center;
 }
+.skills-text-sup{
+    color: rgba(130, 130, 130, 1);
+font-family: "Gilroy-Bold";
+font-style: ☞;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: center;
+margin: 0;
+}
+
